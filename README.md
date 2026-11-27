@@ -6,6 +6,8 @@
 #define RELAY_DIST_PIN 8
 #define RELAY_MAGNET_PIN 9
 
+
+
 SFEVL53L1X distanceSensor;
 
 int baselineDistance = 0;     // Zur Kalibrierung
